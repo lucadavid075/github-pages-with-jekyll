@@ -1,6 +1,7 @@
 title: H! This is My Blog..
 author: Luca
 email: daiveedlucas049@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   I'm a final year student of Computer Science, lover of open source technology and a big fan of being a big fan of new technologies
 
